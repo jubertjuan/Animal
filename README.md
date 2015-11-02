@@ -1,2 +1,0 @@
-# Animal
-Finalizar Proyecto
